@@ -49,4 +49,4 @@ By following this process, the program generates Pascal's Triangle with the spec
 3)Memoization Method
 Here the basic difference from recursive mtd is that we have introduced caching which will get stored thus the code doesn't have to produce the same result again. Thus improving performance and reducing meaningless calculations again and again.
 
-<Took the help of ChatGpt to curate the ReadMe file>
+NOTE- Took the help of ChatGpt to curate the ReadMe file
