@@ -1,4 +1,6 @@
 # TeluskoAssignmentDay1
+--------------------------------------------------------------
+For Reading the summary of whole class go to my blog post https://jitm25.hashnode.dev/recursion-and-memoization-day-1 and enjoy learning new😁
 ---------------------------------------------------------------
 1)Iteration Method
 1. This Java program generates Pascal's Triangle using a list-based approach(Iterative). Here's a simplified explanation of the steps involved:
