@@ -1,6 +1,6 @@
 # TeluskoAssignmentDay1
 ---------------------------------------------------------------
-1) Iteration Method
+1)Iteration Method
 1. This Java program generates Pascal's Triangle using a list-based approach(Iterative). Here's a simplified explanation of the steps involved:
 
 2. Set the maximum height of the triangle: In the main method, the variable maxHeight is initialized to 7, which determines the number of rows in Pascal's Triangle.
@@ -46,6 +46,7 @@ This Java program generates Pascal's Triangle using a Recursive approach. Here's
 By following this process, the program generates Pascal's Triangle with the specified maximum height and prints it to the console. Each number in the triangle represents a combination of the row and column it belongs to.
 
 -----------------------------------------------------------------------------------------------------------------------------------
-3) Memoization Method
+3)Memoization Method
 Here the basic difference from recursive mtd is that we have introduced caching which will get stored thus the code doesn't have to produce the same result again. Thus improving performance and reducing meaningless calculations again and again.
 
+<Took the help of ChatGpt to curate the ReadMe file>
